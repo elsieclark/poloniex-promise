@@ -1,0 +1,32 @@
+{
+  "name": "poloniex-as-promised",
+  "version": "0.0.1",
+  "description": "A Promise-based wrapper for the Poloniex API",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willdavidc/poloniex-as-promised.git"
+  },
+  "keywords": [
+    "Poloniex",
+    "Promise",
+    "es6",
+    "es2015",
+    "Bitcoin",
+    "Etherium",
+    "Exchange"
+  ],
+  "author": "Will Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willdavidc/poloniex-as-promised/issues"
+  },
+  "homepage": "https://github.com/willdavidc/poloniex-as-promised#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "request-promise-native": "^1.0.3"
+  }
+}
