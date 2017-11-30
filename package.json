@@ -1,0 +1,25 @@
+{
+  "name": "poloniex-promise",
+  "version": "0.0.1",
+  "description": "Promise-based wrapper for the Poloniex exchange API",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willdavidc/poloniex-promise.git"
+  },
+  "keywords": [
+    "poloniex",
+    "api",
+    "BTC",
+    "ETH"
+  ],
+  "author": "Will Clark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willdavidc/poloniex-promise/issues"
+  },
+  "homepage": "https://github.com/willdavidc/poloniex-promise#readme"
+}
